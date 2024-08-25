@@ -7,3 +7,7 @@
 ```javascript
 const START_MARKDOWN = 1;
 ```
+
+- [x] Start Series: Communicate Using Markdown course
+- [x] Achieve STEP 4 in the course
+- [ ] Finish the course
